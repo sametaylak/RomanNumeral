@@ -1,0 +1,7 @@
+[package]
+name = "roman_numeral"
+version = "0.1.0"
+authors = ["Samet Aylak <sametaylak29@gmail.com>"]
+edition = "2018"
+
+[dependencies]
